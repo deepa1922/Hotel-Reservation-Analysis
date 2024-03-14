@@ -8,7 +8,7 @@ This project is part of my Mentorness internship ,where  I analyzes a hotel rese
 - **Insights Extraction:** Interpret findings to understand guest behaviors, booking patterns, and seasonal trends.
 - **Recommendations:** Provide actionable suggestions to improve marketing strategies, enhance guest experiences, and optimize operations.
 
-# 📌 Key Insights
+## 📌 Key Insights
 - Majority of reservations are made through the online market segment, indicating a preference for online booking platforms.
 - Families prefer one-night stays on weekends, highlighting a demand for weekend getaways suitable for families.
 - October emerges as the peak reservation month, while January records the lowest number of reservations, indicating seasonal variations in demand.
