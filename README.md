@@ -1,6 +1,6 @@
 # Hotel-Reservation-Analysis
 ## Overview
-This project analyzes a hotel reservation dataset using SQL queries to extract insights and recommendations. The goal is to understand guest preferences, booking trends, and operational factors to optimize hotel performance.
+This project is part of my Mentorness internship ,where  I analyzes a hotel reservation dataset using SQL queries to extract insights and recommendations. The goal is to understand guest preferences, booking trends, and operational factors to optimize hotel performance.
 
 #📌 Key Steps
 - **Data Exploration:** Utilize SQL queries to explore dataset structure, size, and date ranges.
