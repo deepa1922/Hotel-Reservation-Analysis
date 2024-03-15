@@ -18,3 +18,4 @@ This project is part of my Mentorness internship ,where  I analyzes a hotel rese
 Through data analysis, this project provides valuable insights for optimizing hotel operations and enhancing the overall guest experience. By leveraging these insights, the hotel can make informed decisions to drive business growth and success.
 
 #  Presentation Link:
+https://drive.google.com/file/d/1vlHryUDQAaoO8eKbWClir5YM36at_ppq/view?usp=sharing
